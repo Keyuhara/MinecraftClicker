@@ -1,0 +1,3943 @@
+fileFormatVersion: 2
+guid: 52423262fb548ab4c87e7dbed3d72557
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: minecraft_items_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 976
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220e6882bccc83240bf041df94c78811
+      internalID: 973119200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 976
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f91224a8205cdb4992c0cdef6937b30
+      internalID: 994938856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 976
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fda34f679079874c9133b81d111f765
+      internalID: -533165230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 976
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a797275de810cd040a550b0219630715
+      internalID: 1342669229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_4
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 976
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622de4c675ad8ff439059a756473e23a
+      internalID: -1448964680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 980
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84359a8666de1ae4e9990d8e7162da9c
+      internalID: -461654817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_6
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 960
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2deabf7ef92bc8e4ca0242e646dfe060
+      internalID: 812512029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_7
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 964
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2a84bf7052eb840a1cb394d3975df0
+      internalID: -2092694890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_8
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 964
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbee684c298de7c4fb822d339dfc7d95
+      internalID: -48887895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_9
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 964
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdba8f7527ccfe4aa058293051c36a3
+      internalID: -160118885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_apple
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 960
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91921d75670ad1940a03a35355231eb1
+      internalID: 569932574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_14
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 960
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1de8bc611d512d4b9cf7a1d541c6150
+      internalID: 388069106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_15
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 964
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97f7882802ba684ab36f5864ea433dd
+      internalID: 328056261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_16
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 968
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ee2415534370d4f802310bf30cd00c
+      internalID: -1136222875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_17
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 968
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ae7d7588b9b7549befa37488f54ec9
+      internalID: 913296664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_19
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 984
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853e75d367f96604194d6477c68f8c32
+      internalID: -1483751145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_22
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 900
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2cde5a43455ec4cb760c9d6563b0c9
+      internalID: -419944298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_23
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 900
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6709d7af0def7043a40aa58d7fa9e25
+      internalID: 322478362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_24
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 900
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7234310718f56614681f927e024d6366
+      internalID: 1813357188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_25
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 900
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4702e39e9c65ab4bad7093144887035
+      internalID: 1110145124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_26
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 900
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c0247f02bd3384a97fd297b33c550f
+      internalID: 1224744869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_27
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 896
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8102dfc0b510e48826eadeba5581ba
+      internalID: 1128963234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 904
+        width: 128
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86d3ff54064f4543ae48e2f7f341c22
+      internalID: -604261099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_29
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 904
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aed9a6124eb5014ebbfe252f89d0a89
+      internalID: 43444757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_wheat
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 896
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e14451332f783c4d8eacc965fc515c5
+      internalID: -563810787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_31
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 900
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce778d6a5b14684692f2a0b33a0fc9b
+      internalID: 626087426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_32
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 900
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e8e8a6db1e20245b2c5fa15ff8b7ce
+      internalID: -569304593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_33
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 900
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ba493324bb5554ea05a1251798e04a
+      internalID: 1838613148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_34
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 900
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4a9ae5ab42ffa448ebc80bde3fa007
+      internalID: 1383664775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_35
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 904
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8449bd9f120684182f583c56ca7c15
+      internalID: -53809558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_37
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 836
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a539ce98f603a6489700d36ab5363d0
+      internalID: -1909925266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_38
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 836
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea12e23469929e4bb287733c2c5a155
+      internalID: 1426731793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_39
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 836
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d66cc0cd9a102842903d6814814bdcb
+      internalID: -1781013759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_40
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 836
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156b548142d513a4abf2178a284d19ae
+      internalID: 1146048209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_41
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 836
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ee06bf00f949e4787226229bf2fd8c
+      internalID: 1228992357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 836
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e52b1d1acfc8743a5ff4e0ef9b8d7d
+      internalID: 1373564523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_43
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 836
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9736bcd91ec2845a814e9696f93784
+      internalID: -1194301467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_44
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 840
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5827f17be8a1f7943b53b251a337264d
+      internalID: 277763530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_45
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 840
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9ddacec6c895845bc620dc52f5538d
+      internalID: -455039228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_46
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 832
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28e127bca56f5245bc676d8a91beafd
+      internalID: 1821318948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: job
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 832
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d3962ee5a1bf7479f67791d58cfbdb
+      internalID: -1001625126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: door
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 832
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1998f1ac150b597448b05b1add0dc8e4
+      internalID: -395872155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_49
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 832
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c93eec3cdd653246a90de4cd989dc38
+      internalID: -1416898408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 836
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a8bca2197600f4c80d247ad20ad28b
+      internalID: 2055032983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_51
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 840
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40576a021e783b14abd63379c9b86af4
+      internalID: 1644535027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_53
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 780
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6edb6a38f75bc2409105ac491d53ddc
+      internalID: -2089216678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_54
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 780
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1885402d0856541a773588bb5a504b
+      internalID: -263643879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_55
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 780
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65034062bcf4f61429249fb34b88fce7
+      internalID: -1572199789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_56
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 780
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d7f115049223d43a69f5dc606811cf
+      internalID: -847589247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_57
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 780
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7269f8c27403a1c4599831f66661b064
+      internalID: 1246838051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_58
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 780
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db493786eebb234aa32813bb3b18e15
+      internalID: -787029525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_59
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 780
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807d507fd533fa54eb9b397332b77dd0
+      internalID: -489575456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_60
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 780
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e005bdfef94d7548a3de07ee287e7a6
+      internalID: -379215173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_61
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 780
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db623d4ff9b6b74593e8aae9b64eb4a
+      internalID: 930548802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_62
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 780
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ce4e43c22687342873832493d11af4
+      internalID: 1253572712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_63
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 772
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859216b522c16f54787e93599911d9d8
+      internalID: -1554087416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_64
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 776
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbca7af1d0fed5468981199d6f3dad8
+      internalID: 1817305100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_65
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 772
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1a60b2143d5f44d974364b8d58bc6d
+      internalID: 1280087337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_66
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 776
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9530475c2d49006449224970720a23fc
+      internalID: -1931704492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_67
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 776
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2006ee0fee36a049b3a280299062803
+      internalID: 171212476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 776
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf99730886f0604f89bab29a5e750d5
+      internalID: -912725339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_69
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 772
+        width: 124
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418a1b0ca9ab5ef4ea7735c3e1874489
+      internalID: -2086915690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Wood
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afa0e89a3df06c4daf60d46562c49ad
+      internalID: 780431894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Stone
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a07a65ae600744dbaa6187b8c5a0b2
+      internalID: -917746438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_87
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fb48a8137cafe46a4ee3e40a993c44
+      internalID: 405931790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Diamond
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee10b5d215b9ad94ca8798d83e567234
+      internalID: 1454228264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_89
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19765353c875ef64fac2a3d0b1de5779
+      internalID: -542583919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_90
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 708
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fed753eb957224b8d81873aa152146
+      internalID: 56892644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_91
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 704
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38d8eee043b6fc4ebf8e9ec6bc98f25
+      internalID: 326491593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_92
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 716
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea50e20a93ac71b42905dc3a52416a8c
+      internalID: -442704424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_93
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 716
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4635708bb82454194c71f2c26f8084
+      internalID: 1826933527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_94
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 712
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6dbabc758c0fe4783222729a447b82
+      internalID: 478101811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_95
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 708
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566378c0cd4a41049ae72186c70ce599
+      internalID: 1022292684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bucket_water
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 708
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa32bdae254d1441abf7dfbeef3eb5e
+      internalID: 850247992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_97
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 708
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f2bc0cbe9095d4ba2475b0a541ee02
+      internalID: -906467534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_98
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 708
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74325c485a5560a47b7a0adc6e06cc84
+      internalID: -233560133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_100
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 716
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed1b65ec78d9114db8d69e8cb9d71b2
+      internalID: 1247975166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_101
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 644
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e8c6846b6cbc549b9777fed744202f
+      internalID: 1298694076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_102
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 644
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b470fb920b1d74429c04cac5b754634
+      internalID: -1147651251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_103
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 644
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b4848d9c94a1241836808d0b702f0e
+      internalID: 1270788721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_104
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 644
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02a88a837b30ac4a83ca836d6ac98b9
+      internalID: 259517222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_105
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 644
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d733a1bf53e93e7408882625f5a214aa
+      internalID: -288015085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_106
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 644
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20a64139ce80744e9171f8649a5ffe9
+      internalID: 685552311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_107
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 648
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2058f562280143f44a7da16c1f4b3e93
+      internalID: 1255503773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_108
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 672
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdddd0550e5cd0b41bf657bd0775dd22
+      internalID: -429259490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_109
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 644
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9f811f279fed642813f9155c0e280b
+      internalID: 1577885686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_110
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 644
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e096c26908b05488f1da5285d45cbf
+      internalID: 1391296163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_111
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 644
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5aa2d56891d6b446838a6515629e6db
+      internalID: 1434151132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_112
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 644
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca47a094286873047af6f933ccab4091
+      internalID: 1521932737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_113
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 644
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc40df666149624489c8e0881de773a
+      internalID: 1202977149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_114
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 648
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b854d09eca6094c906fb31548a1cdf
+      internalID: 1604900364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_115
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 648
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651f1fb7bbf59504dba7dc7c9b8bc3e0
+      internalID: 1061709653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_116
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 648
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1920ac3dffdae294eb7a1c8f4ffc74e7
+      internalID: -1917873728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_117
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 652
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764f9e20c8dc6ff4cb535fc3664b03c6
+      internalID: -139210387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_118
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 580
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca5f95d910805848a09d1d67be15dc7
+      internalID: -1531410818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_119
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 580
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2225effeca35ee4ea3a6d76bcd7e9ef
+      internalID: 2096576993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_120
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 580
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086b686c942e4eb479d18d1d07ba7d66
+      internalID: -150378550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_121
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 580
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d6c691b33027649b354608bb533a49
+      internalID: 1056953382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_122
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 580
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262e2deb05e715e468da9e2daa1b570d
+      internalID: 123216766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_123
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 576
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329000a2fc1a4b94ca662b9a570a89e8
+      internalID: -413215999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_124
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 576
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e855497f66ed674c8ed0b025cac2dd9
+      internalID: 309913660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_125
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 580
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b610948b4c2760648a529ff8a72836b7
+      internalID: 355174305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_126
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 576
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b7360f1fc9db3499c712de0deb895f
+      internalID: -816891432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_127
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 580
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be69534e8f4199428da750b777ec337
+      internalID: -1906122307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_meat
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 580
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d2289cee235554b82b6584481f8c3f
+      internalID: 698654924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_129
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 580
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15687eda820afa74aa2f42de36a2d6c7
+      internalID: -491016004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_130
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 580
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0829d69b7f2adbc47b00990821d93701
+      internalID: 243894814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_131
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 580
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1828ebb4fd267dd4abffbfd6af21d021
+      internalID: 368482346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_132
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 584
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91afb90e1ed98624cbcf7fc93a7489de
+      internalID: -526724373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_133
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 588
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba181fac1f5cba40a4c7e177abf8c26
+      internalID: -632839858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_134
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 516
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe514443accd6ff468bba0d73ffa12c3
+      internalID: -930195132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_135
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 516
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c9f348c4bb0bc4797f95fa82bd76f3
+      internalID: -402732997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_136
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 516
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8572f519a91df43a5e1e4c1ff3df9b
+      internalID: 855437486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_137
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 516
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea5c63def2dc4248b04e82e5a4e4b23
+      internalID: 107425837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_138
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 516
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f841c1b5b59ad4e8acf9e7a95dfe1d
+      internalID: 724296476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_139
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 512
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d86586888d3c2045818389a13b8ea0c
+      internalID: -1552980595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_140
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 516
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ee3db9accd2a2428dbcfeba981c0f1
+      internalID: -1789330068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_141
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 516
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae444ae694526a41a09cc113fecb45e
+      internalID: -583570402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_142
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 520
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e705a83e188be894198d63cc420198f0
+      internalID: 239181958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_143
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 516
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb46e0eb1bc70049aa8ee880f943f2d
+      internalID: 2106944516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_144
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 516
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131101b6324110e469e85651c02b52b0
+      internalID: 1107695260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_145
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 528
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d42debc8711fb449be5c967aa5023d
+      internalID: -667776758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_146
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 528
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7261eb364145fd642bf37ff96fdfb71e
+      internalID: -1674255317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_150
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 520
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7087cee489bea484fa3d94ded3ad60fb
+      internalID: -1297307499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_151
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 452
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6c34cf03576ca44a11d65df1ab7932
+      internalID: -1624425683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_152
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 452
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2142d2ce63f387438a3213cf2495b98
+      internalID: -1936744649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_153
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 452
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5efd473bc674764cb9a17cf45f39c11
+      internalID: 723600817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_154
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 452
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f144350e9eb11045ae69647d8977c0f
+      internalID: -1899414973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_155
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 452
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8497077e3575a40bfde150cd93277b
+      internalID: -640018925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_157
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 452
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8cdfb9fae2aa940920ae5db3203ca9
+      internalID: -1544318089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_158
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 452
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34bacf6df6ba3e5458d07d2e79863d84
+      internalID: 523485086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_159
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 452
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6a680a6a6fb414e89e031ae62a37a7
+      internalID: 161997798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_160
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 452
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4c3d6e56f898a4b8076cb5402aeda0
+      internalID: -219374789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_161
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 452
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39de31a62ddca6f46b49695e6cf08a29
+      internalID: 1123948717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_162
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 452
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1994490682e7143a7c24cd89357641
+      internalID: 54158731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_163
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 452
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e99634b0652cb4da1f31497a39f94b
+      internalID: -141085470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_165
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 456
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76c05a969d05fd4eaf494bccc7f9590
+      internalID: 369841728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_166
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 460
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f14fe9de37067d42a83dc2d5951a528
+      internalID: -803942344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_168
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 392
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07f546769891754bb6f65800d5174d7
+      internalID: -1655914781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_169
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 388
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34aad039ca4b5ad449908939cf10fca0
+      internalID: -435943837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_170
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 388
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e463f7e362f46d45aa5d5df79f29c19
+      internalID: -862663708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_171
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 388
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaba1c7b0e988b44aa1dbb10d8177c79
+      internalID: 719744445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_172
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 388
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fbfcc0460d36f428f8a45d886acca2
+      internalID: 1893668812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_173
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 388
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25884a2f7cfc9524b93d14c15a1d6687
+      internalID: 1010777679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_174
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 388
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f26b98fad9148f41a1b8df7aed08aef
+      internalID: -488432335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_175
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 388
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d591ce90c6a264c8dc511a078aba1c
+      internalID: 218544211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_176
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 396
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae89752538201cf419f3f5c2f065bc82
+      internalID: -1940116029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_177
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 396
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ceadeec52834c4685c7fc2e99e138f
+      internalID: 189693070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_180
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 324
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d752e008c2907d4daa489d413921f9c
+      internalID: 1244147296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_181
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 324
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2013f8bf40d5044282421895498a879
+      internalID: 110352025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_182
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 320
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cce35176e679c42849e321bc6b215d
+      internalID: 2067825312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_183
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 320
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d69f4b3c2f1894eb8dd17f54634705
+      internalID: 96868355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_184
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 328
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1e82b7c162fb145b0571143c0c5f4e
+      internalID: 1209466325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_185
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 332
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92643cf8725f7b449b737805d8365c44
+      internalID: -1617570022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_186
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 332
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b0715af524abe49a1e085fd2d17be2
+      internalID: -1988321809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_189
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 344
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0959ee2ecd21dbc4f9370edd317ed338
+      internalID: -602371020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_198
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 308
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c747b005ecfa723408aa9e51e4575821
+      internalID: 2114553628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_199
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 308
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d510b51f23fed42aa0fb96274488a7
+      internalID: 1005178543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_202
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 260
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fb7af321a1164468cca181b66e1896
+      internalID: -842968229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_203
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 260
+        width: 128
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c171bff7fcb8e6442bd40de637ddd223
+      internalID: -197259262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_204
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 268
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5527de86e2e841940a99d1396124532c
+      internalID: 1214936097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_205
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 268
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769a6bff5d3190944a4f759a4eb629ac
+      internalID: 124682606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_206
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 260
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753697d5c1f2d454f9ffdc1e57bd5220
+      internalID: 2100898033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_207
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 256
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458756a7a74b32e46987641cda171ee4
+      internalID: 954529629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_211
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 260
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad149035c362024895c934470e79b2a
+      internalID: 299030707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_221
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188
+        width: 79
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451538507737dd64f9be1c9b1fdceaed
+      internalID: 439795481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_231
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 196
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c7e328325384146a20347e337275ec
+      internalID: 576242267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_items_233
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 180
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088b57b47df12d04f9eabf7702a82759
+      internalID: 1301759684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sword_Diamond: 1454228264
+      Sword_Stone: -917746438
+      Sword_Wood: 780431894
+      arrow: 1373564523
+      bed: 2055032983
+      bucket_water: 850247992
+      door: -395872155
+      food_apple: 569932574
+      food_meat: 698654924
+      food_wheat: -563810787
+      job: -1001625126
+      minecraft_items_0: 973119200
+      minecraft_items_1: 994938856
+      minecraft_items_10: -1357620599
+      minecraft_items_100: 1247975166
+      minecraft_items_101: 1298694076
+      minecraft_items_102: -1147651251
+      minecraft_items_103: 1270788721
+      minecraft_items_104: 259517222
+      minecraft_items_105: -288015085
+      minecraft_items_106: 685552311
+      minecraft_items_107: 1255503773
+      minecraft_items_108: -429259490
+      minecraft_items_109: 1577885686
+      minecraft_items_11: -744385326
+      minecraft_items_110: 1391296163
+      minecraft_items_111: 1434151132
+      minecraft_items_112: 1521932737
+      minecraft_items_113: 1202977149
+      minecraft_items_114: 1604900364
+      minecraft_items_115: 1061709653
+      minecraft_items_116: -1917873728
+      minecraft_items_117: -139210387
+      minecraft_items_118: -1531410818
+      minecraft_items_119: 2096576993
+      minecraft_items_12: 675769914
+      minecraft_items_120: -150378550
+      minecraft_items_121: 1056953382
+      minecraft_items_122: 123216766
+      minecraft_items_123: -413215999
+      minecraft_items_124: 309913660
+      minecraft_items_125: 355174305
+      minecraft_items_126: -816891432
+      minecraft_items_127: -1906122307
+      minecraft_items_129: -491016004
+      minecraft_items_130: 243894814
+      minecraft_items_131: 368482346
+      minecraft_items_132: -526724373
+      minecraft_items_133: -632839858
+      minecraft_items_134: -930195132
+      minecraft_items_135: -402732997
+      minecraft_items_136: 855437486
+      minecraft_items_137: 107425837
+      minecraft_items_138: 724296476
+      minecraft_items_139: -1552980595
+      minecraft_items_14: 388069106
+      minecraft_items_140: -1789330068
+      minecraft_items_141: -583570402
+      minecraft_items_142: 239181958
+      minecraft_items_143: 2106944516
+      minecraft_items_144: 1107695260
+      minecraft_items_145: -667776758
+      minecraft_items_146: -1674255317
+      minecraft_items_147: -912920934
+      minecraft_items_148: 2044082436
+      minecraft_items_149: -274704145
+      minecraft_items_15: 328056261
+      minecraft_items_150: -1297307499
+      minecraft_items_151: -1624425683
+      minecraft_items_152: -1936744649
+      minecraft_items_153: 723600817
+      minecraft_items_154: -1899414973
+      minecraft_items_155: -640018925
+      minecraft_items_156: 1860095092
+      minecraft_items_157: -1544318089
+      minecraft_items_158: 523485086
+      minecraft_items_159: 161997798
+      minecraft_items_16: -1136222875
+      minecraft_items_160: -219374789
+      minecraft_items_161: 1123948717
+      minecraft_items_162: 54158731
+      minecraft_items_163: -141085470
+      minecraft_items_164: 1454150741
+      minecraft_items_165: 369841728
+      minecraft_items_166: -803942344
+      minecraft_items_167: 1547192022
+      minecraft_items_168: -1655914781
+      minecraft_items_169: -435943837
+      minecraft_items_17: 913296664
+      minecraft_items_170: -862663708
+      minecraft_items_171: 719744445
+      minecraft_items_172: 1893668812
+      minecraft_items_173: 1010777679
+      minecraft_items_174: -488432335
+      minecraft_items_175: 218544211
+      minecraft_items_176: -1940116029
+      minecraft_items_177: 189693070
+      minecraft_items_178: 1351494809
+      minecraft_items_179: -671544964
+      minecraft_items_18: -726228319
+      minecraft_items_180: 1244147296
+      minecraft_items_181: 110352025
+      minecraft_items_182: 2067825312
+      minecraft_items_183: 96868355
+      minecraft_items_184: 1209466325
+      minecraft_items_185: -1617570022
+      minecraft_items_186: -1988321809
+      minecraft_items_187: 1795590154
+      minecraft_items_188: -198432626
+      minecraft_items_189: -602371020
+      minecraft_items_19: -1483751145
+      minecraft_items_190: -782521959
+      minecraft_items_191: -1072109216
+      minecraft_items_192: 948961492
+      minecraft_items_193: -164446889
+      minecraft_items_194: 295765986
+      minecraft_items_195: -1682252361
+      minecraft_items_196: 1737775134
+      minecraft_items_197: -599660600
+      minecraft_items_198: 2114553628
+      minecraft_items_199: 1005178543
+      minecraft_items_2: -533165230
+      minecraft_items_20: -444451187
+      minecraft_items_200: -882994017
+      minecraft_items_201: 1207852621
+      minecraft_items_202: -842968229
+      minecraft_items_203: -197259262
+      minecraft_items_204: 1214936097
+      minecraft_items_205: 124682606
+      minecraft_items_206: 2100898033
+      minecraft_items_207: 954529629
+      minecraft_items_208: -473449143
+      minecraft_items_209: -1846602611
+      minecraft_items_21: -987137538
+      minecraft_items_210: -510603329
+      minecraft_items_211: 299030707
+      minecraft_items_212: 109083341
+      minecraft_items_213: -298472441
+      minecraft_items_214: 804880859
+      minecraft_items_215: 1165654786
+      minecraft_items_216: -2005149420
+      minecraft_items_217: 1944196877
+      minecraft_items_218: 850349664
+      minecraft_items_219: -1054739874
+      minecraft_items_22: -419944298
+      minecraft_items_220: 31114792
+      minecraft_items_221: 439795481
+      minecraft_items_222: -1280178412
+      minecraft_items_223: 1916267030
+      minecraft_items_224: -1165689760
+      minecraft_items_225: -1496731354
+      minecraft_items_226: -1460485637
+      minecraft_items_227: 1296982308
+      minecraft_items_228: -1748809655
+      minecraft_items_229: 1489334297
+      minecraft_items_23: 322478362
+      minecraft_items_230: -1289378915
+      minecraft_items_231: 576242267
+      minecraft_items_232: 36248378
+      minecraft_items_233: 1301759684
+      minecraft_items_234: -21032065
+      minecraft_items_235: 1831766098
+      minecraft_items_236: -751050331
+      minecraft_items_237: 1630690838
+      minecraft_items_238: 1745974455
+      minecraft_items_239: -1334892790
+      minecraft_items_24: 1813357188
+      minecraft_items_240: 1741137532
+      minecraft_items_241: -1939579613
+      minecraft_items_242: -509770151
+      minecraft_items_243: 1086374189
+      minecraft_items_244: -1068161152
+      minecraft_items_245: -1586441992
+      minecraft_items_246: 1364198786
+      minecraft_items_247: -1093698518
+      minecraft_items_248: 872419931
+      minecraft_items_249: -112072024
+      minecraft_items_25: 1110145124
+      minecraft_items_250: -864051233
+      minecraft_items_251: 928910053
+      minecraft_items_252: -1594856979
+      minecraft_items_253: 209998157
+      minecraft_items_254: 2005338117
+      minecraft_items_255: -1958909590
+      minecraft_items_256: 643546032
+      minecraft_items_257: -177634530
+      minecraft_items_258: 1858680525
+      minecraft_items_259: 332146675
+      minecraft_items_26: 1224744869
+      minecraft_items_260: 214656889
+      minecraft_items_261: 1020115176
+      minecraft_items_262: 1623030603
+      minecraft_items_263: 670191440
+      minecraft_items_264: 1829838242
+      minecraft_items_265: -329701837
+      minecraft_items_266: 799309678
+      minecraft_items_267: 1800850026
+      minecraft_items_268: -698378103
+      minecraft_items_269: 1844993179
+      minecraft_items_27: 1128963234
+      minecraft_items_270: 1732746106
+      minecraft_items_271: 300476452
+      minecraft_items_272: 2128506840
+      minecraft_items_273: 789840238
+      minecraft_items_274: -258931372
+      minecraft_items_28: -604261099
+      minecraft_items_29: 43444757
+      minecraft_items_3: 1342669229
+      minecraft_items_31: 626087426
+      minecraft_items_32: -569304593
+      minecraft_items_33: 1838613148
+      minecraft_items_34: 1383664775
+      minecraft_items_35: -53809558
+      minecraft_items_36: -83032898
+      minecraft_items_37: -1909925266
+      minecraft_items_38: 1426731793
+      minecraft_items_39: -1781013759
+      minecraft_items_4: -1448964680
+      minecraft_items_40: 1146048209
+      minecraft_items_41: 1228992357
+      minecraft_items_43: -1194301467
+      minecraft_items_44: 277763530
+      minecraft_items_45: -455039228
+      minecraft_items_46: 1821318948
+      minecraft_items_49: -1416898408
+      minecraft_items_5: -461654817
+      minecraft_items_51: 1644535027
+      minecraft_items_52: 1045421540
+      minecraft_items_53: -2089216678
+      minecraft_items_54: -263643879
+      minecraft_items_55: -1572199789
+      minecraft_items_56: -847589247
+      minecraft_items_57: 1246838051
+      minecraft_items_58: -787029525
+      minecraft_items_59: -489575456
+      minecraft_items_6: 812512029
+      minecraft_items_60: -379215173
+      minecraft_items_61: 930548802
+      minecraft_items_62: 1253572712
+      minecraft_items_63: -1554087416
+      minecraft_items_64: 1817305100
+      minecraft_items_65: 1280087337
+      minecraft_items_66: -1931704492
+      minecraft_items_67: 171212476
+      minecraft_items_68: -912725339
+      minecraft_items_69: -2086915690
+      minecraft_items_7: -2092694890
+      minecraft_items_70: 1963207245
+      minecraft_items_71: -1958626490
+      minecraft_items_72: -454778449
+      minecraft_items_73: 513101229
+      minecraft_items_74: 2080963217
+      minecraft_items_75: -1698588447
+      minecraft_items_76: 1209118856
+      minecraft_items_77: -568451590
+      minecraft_items_78: -1926361325
+      minecraft_items_79: 366260357
+      minecraft_items_8: -48887895
+      minecraft_items_80: -1367882842
+      minecraft_items_81: 1181989547
+      minecraft_items_82: 425534784
+      minecraft_items_83: -12781502
+      minecraft_items_84: 118777576
+      minecraft_items_87: 405931790
+      minecraft_items_89: -542583919
+      minecraft_items_9: -160118885
+      minecraft_items_90: 56892644
+      minecraft_items_91: 326491593
+      minecraft_items_92: -442704424
+      minecraft_items_93: 1826933527
+      minecraft_items_94: 478101811
+      minecraft_items_95: 1022292684
+      minecraft_items_97: -906467534
+      minecraft_items_98: -233560133
+      minecraft_items_99: -1525528798
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

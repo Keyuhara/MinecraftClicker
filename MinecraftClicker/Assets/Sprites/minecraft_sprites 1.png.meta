@@ -1,0 +1,5799 @@
+fileFormatVersion: 2
+guid: db2ffd9cc71e96b43b934d2ad179edb3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: minecraft_sprites 1_0
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1253
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9868c3a291a371248abe975827145624
+      internalID: -2003358282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1253
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3260d3a36785ca24193c821f43f78481
+      internalID: 2132194376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1253
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5546c9c9c46ee7940b023b3ee9ee5772
+      internalID: -1287788245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1253
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6c2e6f615cab44d9a40f2f27c5e743
+      internalID: -770005940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_4
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1188
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af60257162f3f0479d637a9dfc6b213
+      internalID: 1719304498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_5
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1188
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be0810efa4bfdb4eac140af0401ffd2
+      internalID: 763923772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1188
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad36bb44d6e38f449a73d7ff59226bb
+      internalID: 1905363079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_7
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1188
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb56323756ab1fd4c95531d6b1b52755
+      internalID: -603172178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_8
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1188
+        width: 39
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf791cf4e02cf24f9215bc1c3ad6f3d
+      internalID: 192471681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_9
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1188
+        width: 39
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9eab3052c2a514682d5fb26c777f43
+      internalID: 221212013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_10
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1188
+        width: 43
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9226dbcb6e28b4847832a27d81fa2460
+      internalID: -158661752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_11
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1188
+        width: 43
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83145f8764845f43acd7601d87a59a3
+      internalID: -719189097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1187
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b667d4f98f43147a24b7e16e22f448
+      internalID: -1494983799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_13
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1187
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900e360d06afe0b4fb993eafc55cb550
+      internalID: 827808138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_14
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1187
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1a19ac83040ac46a1757f28589ff8d
+      internalID: -463022937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_15
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1188
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2579390bed8ed744f8578b933739bbb0
+      internalID: 668043804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_16
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1188
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e812e117e1ab841aa39a25890bbb77
+      internalID: -1825334018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_17
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1188
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4daadf41d1f3a4a8c3034cdf92aa8a
+      internalID: 1111705553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_18
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1188
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800e98fd866ad0f4ea6783b98ecbfa46
+      internalID: 1245449534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_19
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1188
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca887c2c0d85594caa09c93e13b49a1
+      internalID: -646021443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_20
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1188
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100a0cefde573d9498b6aad0f954fcd0
+      internalID: -814056374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_21
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1188
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea79ea6d7040d61428e8255911d6f517
+      internalID: -815902334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_22
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1188
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf4826d529f7cb4ca5407ded80a7504
+      internalID: 1689536203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_23
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1188
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549bc91b5ec799b49ba468a1a0d91b2e
+      internalID: 491990467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_24
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1104
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d21f98c5fd3384fb9dcd5a7b6e03b6
+      internalID: -1960936889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_25
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1105
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e0efcfdcc078049a11fad376f9c99b
+      internalID: 1592835767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_26
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1041
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbe9685bf453df4daef994973e5d6fe
+      internalID: -1743526037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: block_wood
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1041
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41a7929b2318744da986b15a89537b0
+      internalID: 426427666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_28
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1041
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf355d70a88874458744952badbe328
+      internalID: 1631248978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_29
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 977
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dead4f5bd2b7b2e44b6a6ac8e9b51663
+      internalID: -1889524994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_30
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 977
+        width: 33
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fdd414707f21f4c92d77d8e37ccba8
+      internalID: 352936967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_31
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1013
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2925c5b822c6504d969842bb735bb6a
+      internalID: -2079044271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crafting_table
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 977
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5836aa42b0d764aaa39e3633469ef4
+      internalID: -1285240263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_33
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 977
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66caf7d616c0dd14ba433504f04bea6c
+      internalID: 464489991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_34
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 977
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152b2dab952c3754da625b5fad839954
+      internalID: 270242015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_35
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 977
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e83dfe0e857d0c439cbeaf112ae1ea3
+      internalID: -129387759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_36
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 977
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6ed4a969088a84e85e53a2f6797cb9
+      internalID: 2139350676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_37
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 977
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f8ec0cad447ae4d9f18f55761ffb5f
+      internalID: -1862687505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_38
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 977
+        width: 84
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1c0365a72f0944bb7fcca008e3cdcb
+      internalID: -2025548977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_39
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 977
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e174c1e63e58e8e4c806cebce17900db
+      internalID: -328766761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_40
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 912
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb7065a2be4f254db45ecdc391b2afb
+      internalID: 1909707689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_41
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 913
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6972fd6e936afa645824be4f10a03409
+      internalID: -601810329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_42
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 913
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f79708f33480449a6dbdb32e46d18d
+      internalID: -618293979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_43
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 913
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34506867bcfbe4844a8230a0b9e8f742
+      internalID: 1365477411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_44
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 913
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654924ce972ba0740a6d9250edfad71e
+      internalID: 2015654721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_45
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 913
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa5585a28555f84293138a10c9bcee9
+      internalID: 406329606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_46
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 913
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb8ec29569925245b9955173ac82c3e
+      internalID: 739480467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_47
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 913
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cba0aab387ed8e4085dcbfb3ea76695
+      internalID: 1397692391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_48
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 913
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74295683e70a0c6459fe12b35acafb9a
+      internalID: -1833778431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_49
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 913
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1acb2f4774436b4ea217caec18d3113
+      internalID: -1420118162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_50
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 872
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4336d25520268644aa178f886f2c54b
+      internalID: -1372076186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_51
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 872
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb120bc7af0fd13488dc97f5a299a6b6
+      internalID: -594277164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_52
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 872
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a9bf8481a37df4499730a810d78cfd
+      internalID: -1699112895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_53
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 872
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990fb4a126ffd4940926198588f27314
+      internalID: 1603477479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_54
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 872
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afddddbcb057f27478e6a139f2e8b92d
+      internalID: -765280555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_55
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 874
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c4a7e74db49bf4ea50656e30565b7c
+      internalID: 979724694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_56
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 864
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee20386b2b39d624b8a396614299ffe3
+      internalID: -1590465289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_57
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 866
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658afbadf8107c04189be15d0e732507
+      internalID: 252756236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_58
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 866
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa384bb4fb846054f9ed337da10ef0cc
+      internalID: 1440044685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_59
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 871
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6f99dedb3a5aa47a741253f45c45a0
+      internalID: -2084225114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_60
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 867
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fcd492ba04a924cabe04b26dcd4444
+      internalID: 1013969531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_61
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 874
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf12656c89f29446b87ca3f900e75d7
+      internalID: 477332452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_62
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 878
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38dad9a9d44a87b409c441bd01bdbb58
+      internalID: -1393773478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_63
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 880
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783a0479973a4a940bfa34e5a1d38a6c
+      internalID: -2019932520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_64
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 865
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64735467182d8249bbc7f6565c0d203
+      internalID: 1837272072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_65
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 865
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8abdc32f92bdb44907bc80a5712f9f
+      internalID: -1840543524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_66
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 866
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4d4614191440840a43641a5914a06e
+      internalID: 1198328803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_67
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 869
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4aa1c93812a916499a93ce9c990b7cb
+      internalID: -309220408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_68
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 868
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504482101725dbc4191957e919b8aa0a
+      internalID: -32722436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_70
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 870
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de6f40ba3ac8d4459394a1095f968dc
+      internalID: -964708396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_71
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 872
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e388f98b1a88a0b43821083cfb937c2c
+      internalID: -1937945529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_72
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 834
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ca90d50bec2104cb73c3575dd5ef2f
+      internalID: 513078629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_73
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 834
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f30a480499944b4582de50faeeb648b
+      internalID: 1907535474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_74
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 834
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecc4c5175c49d24fa99ab992aface9b
+      internalID: -781102418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_75
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 834
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20812aaa1827c064597bccc3ba08bcd6
+      internalID: -1110498327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_76
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 834
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ba10e76b9c11e449408bbcc66d9896
+      internalID: -887765633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_77
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 832
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0b7dcec13046a40ae01a61a47bd253
+      internalID: 936899984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_78
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 836
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6ecc58ed2d6554ca80fc73f4d5f363
+      internalID: -246866159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_79
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 836
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2d25b012a469d448ffde54c060056b
+      internalID: 181577643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_80
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 836
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426d7916dc97b7e40a9703580cff70f2
+      internalID: -122895263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_81
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84688f4e4c499c043bd19bce530823cc
+      internalID: 1196322358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_82
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 835
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e7b799feacba844b8bf8aa3743273c
+      internalID: 300064038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_83
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 835
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc368419cb9ebb640aac9b83ffacedaa
+      internalID: -853547532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_84
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 834
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23007196e87fb8b4ba923609980d935a
+      internalID: -1485028582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_85
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 834
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c318569812ca8b44d8a01297501d99fd
+      internalID: 509525873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_86
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 836
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf41dadd6f392ec4ca1e9c86660f6f38
+      internalID: 428471456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_88
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 802
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783539ce5cbde2d49b59095312a91fc8
+      internalID: 892147474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_89
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 802
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02614e87fa57bb74f883270ff544c190
+      internalID: -1323926269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_90
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 802
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3040c75965cb0d4b84265950b98a0de
+      internalID: -248367400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_91
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 802
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3552f08bbe40d514084a752b6cd1db0b
+      internalID: -1139716358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_92
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 802
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c246ac72972474f8b460a21d2a1bcb
+      internalID: -2084201923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_93
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 803
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06eec5016d22f64299acd6c875f8014
+      internalID: -1348456099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_94
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 802
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e97e0049f66e9f4896bd8bd65d09f27
+      internalID: 1097975809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_95
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 804
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20234ce8006163c46abbbaaf494120f5
+      internalID: 820810480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_96
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 805
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b11fdffe651f2e4c9bcd045190d3b76
+      internalID: 303755518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_97
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 802
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c38885791dd5d41997990f034289d4
+      internalID: -1922400280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_98
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 800
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bcddda52de4b1448ce24e3406ef9c9
+      internalID: -2101562864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_99
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 801
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d956bb82d134704abf2bbcfe15feb08
+      internalID: 1726143363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_100
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 801
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43415ad41bd3f344bbebce93f1c122b
+      internalID: -937649263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_101
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 802
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb884c97523879418b12f3f4565e8f4
+      internalID: 1468614787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_102
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 804
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5dbc6dc9d1783e4abaf591a1d6471e4
+      internalID: -1167363644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_104
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 774
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45deced6f023fd84da7615fff3d8905b
+      internalID: -322467515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_105
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 774
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049fab426ade909409c95142251fad77
+      internalID: -1195551628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_106
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 774
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163ba28459fe85347955d3c17a9f3c53
+      internalID: 804103140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_107
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 774
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0891b47e24fa224cbb94d62c2f42402
+      internalID: -1112040936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_108
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 774
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b59af0fbe149349af81fd5146ad657
+      internalID: 2062726480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_109
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 774
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f105bd452fbb63418c3c0845e8a59fd
+      internalID: 309732138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_110
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 774
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8a538f146bc8541b27e7c2868490d5
+      internalID: 1992600918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_111
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 774
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8289a7bdc9a0754cba06c685a167444
+      internalID: -523201406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_112
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 774
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b27db37f60728f4ea04b0efb75bff29
+      internalID: 1445994767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_113
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 774
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d560fb15168504aa8bd7f809a1575d
+      internalID: -1037533349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_114
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 770
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6c3e2f8ad6e114eb48b32aae2e6a3d
+      internalID: 571545911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_115
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 772
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbb86065563a4d46a7bbb4fc21e0986
+      internalID: -51954639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_116
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 771
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542b8ac2a21b0c5478b67bd7958212aa
+      internalID: -430022831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_117
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 773
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e446f871935a34479ac8cd03696dab6
+      internalID: 1903630657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_118
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 772
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b881cc4a5ddeb49ab74e4d9628d903
+      internalID: 1491181488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_119
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 772
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fac2b0b39fd73408e5eafa3ce39555
+      internalID: 770642408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_120
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 770
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a625266caaf68774a83c70e49299b46b
+      internalID: -973536749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_121
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 772
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d347280eff4b2a419e7332ba7f71579
+      internalID: 1768665132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_130
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 782
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efb4aadd0dd34742b371abf50145e52
+      internalID: 1740334663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_138
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e23628ba95d5c9409541074c3551a71
+      internalID: -295932641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_139
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e798b6b6d0e884c82eee47280ebf83
+      internalID: 1731428251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_140
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9dedd6cd1ec245419e7838882ca7606
+      internalID: -243346668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_141
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e167de061c26b43996f3ccc84833a1
+      internalID: 1935182795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_142
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b065b830287f0e842b65ad32f0062932
+      internalID: -610239024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_143
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 738
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7fb0585fe976e4ab52081a7fd6f9cd
+      internalID: 775655366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_144
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 736
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9423844cac4584bb2241663858bc8c
+      internalID: 299053721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_145
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 742
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c5cd8d6846ee444b4d8108cbc73afc
+      internalID: 899689726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_146
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 742
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e32072ebc6c674595975a34237f423
+      internalID: -18569716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_147
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 741
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d600a3bb61bc15c4d9885e3b55078fa9
+      internalID: -1315543453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_148
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 738
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34428711ac94427479df4b1ffa062bd8
+      internalID: -401163415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_149
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 738
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06658f7858be90d44bf5da480097acda
+      internalID: 1172586385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_150
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 738
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b9a129abe32014ca183f1a95ced91b
+      internalID: -1656713970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_151
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 738
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3db40058957474c84ed92cc2fa06cf
+      internalID: -1666766130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_152
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 742
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4b3c514557c1a48a5a8a14c1c3ee9e
+      internalID: -918163849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_153
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 743
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b15ded174803348908addda5b67b7c
+      internalID: 540488940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_154
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 706
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1369e8e5af3c14a9720981f7242af9
+      internalID: 1966346582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_155
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 706
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45d0137795efc0488203344b6dda36b
+      internalID: 529215050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_156
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 706
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318c7f10232a04846be97295e694d6bf
+      internalID: 544651941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_157
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 706
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4bc768fe331a1478f4be9d4ac5667f
+      internalID: -1270558275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_158
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 706
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d40e12c75a04041ba0f2c4da01210d
+      internalID: -169964771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_159
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 706
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67f19505af914548a25c84d2cc6b892
+      internalID: 1395565013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_162
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 706
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6f6a912b3453b4790e087e09b1a3e1
+      internalID: 1685030420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_163
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 706
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4169b1675820f41a72d16c2013638f
+      internalID: -1874062105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_164
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 707
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5ba34abe2f23340abc932a707b9e15
+      internalID: 907324531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_165
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 707
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5619b12f559a93498610038704fbf14
+      internalID: -2103466858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_166
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 706
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e5200bc1c3f6d4aa83de0771623e61
+      internalID: -1337014452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_167
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 708
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fe0f68a416a7a4a9ac5e0a029e9d45
+      internalID: -457352130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_168
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 708
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0651365efb935343bea66b2460f75a9
+      internalID: 1985415505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_169
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 709
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e20f10364347b941b7cb9b8deeb5a60
+      internalID: 1068623944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_170
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 711
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691135ec91fef21438ba3d976c0ebf15
+      internalID: -1885231554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_171
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 674
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce7a78ce0a1b2e468846b07d54cf8dc
+      internalID: 149144313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_172
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 674
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e7b14960b95294eaef3d424881c1c5
+      internalID: -1114540887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_173
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 674
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa88838a6f414194192a74d011fa10c0
+      internalID: -1039368640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_174
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 674
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeda2b525bc4eb64a878e3edff3aea49
+      internalID: -1637392494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_175
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 674
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c37e4f2340ad14c8b807823b314df9
+      internalID: 50206843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_176
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 672
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3a79351135d714d8e615b0f8e6e5aa
+      internalID: -1885981062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_177
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 674
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7419106fcaf83a74aa214b15f6ee326a
+      internalID: 991977730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_178
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 673
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b71303c3c97c94e803f969fe7f6934
+      internalID: 1162777658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_179
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 674
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44724d8679f98db4893a50893f2939c4
+      internalID: 128847968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_180
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 674
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33225d32dac552d4280822fff24e5a64
+      internalID: -954182369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_181
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 676
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d286706828f054683264988e7fd2bc
+      internalID: 1873799093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_182
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 675
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321718f2bddd69a44b9a3cd18480caab
+      internalID: -1188162000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_183
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 674
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76dfeb985dc9544a8861ba47d10ec33
+      internalID: -432901578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_184
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 676
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff366e04b2477ce468c563cbd225f61e
+      internalID: -1953941045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_185
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 679
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12cdce5740a97a34d970c992f1486e7d
+      internalID: 464331639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_186
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 642
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f212d64a9e27b6245843b7f0772dde52
+      internalID: 1046708908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_187
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 642
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8661201973fdc4dbeddea339f03e81
+      internalID: -1626949401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_188
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 642
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38ad9036f1d9a14f826981eb8c28078
+      internalID: -1485633164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_189
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 642
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48141bea25979bc44b4b617a29c641cb
+      internalID: 379761856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_190
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 642
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40b0f48a1b20c14eba3b8f793ed5cd8
+      internalID: 323391415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_191
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 640
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e530310bb8f064e89f581f4778ef28
+      internalID: 1225379216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_192
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 641
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb77b4ce43f93ce4a8e5b9a9b1d6a735
+      internalID: -461907834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_193
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 641
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707b0fcaba72be840b8b47a09379a421
+      internalID: -154463175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_194
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 647
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d279ad8c8b0762c4a8e240ec54197764
+      internalID: 781236622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_195
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 648
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a901c5c9fe4f2de4982fe8e55febe5fc
+      internalID: -1312064475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_196
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 646
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca11f5fc43bcc0e4f9ce5a9c6988b17b
+      internalID: -945604067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_197
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 644
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122d4c93c38856d419af00ef782aa945
+      internalID: -1939588133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_198
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 660
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01d43fe0ea2c5b41b654bd184d02103
+      internalID: -401277423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_199
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 645
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2292e3655d43ce24aa2c29aadb50fe7e
+      internalID: 1348365000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_200
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 650
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51078a09fba68454db616a97dee85a99
+      internalID: -1698283134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_201
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 610
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a017e5f2567a3b1439c56530fc1e0553
+      internalID: -791766969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_202
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 610
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc46f19aa39107f479af94a900358918
+      internalID: 725932334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_203
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 610
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b915309f57747964c8cbc11651381ac7
+      internalID: -1089190973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_204
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 610
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ea553196517094381ade90680399af
+      internalID: -1039856470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_205
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 610
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728b12ef009fa624eba7947d9ea6b534
+      internalID: -1719766940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_206
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 608
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81fe1ac721fd104484552f826d96e94
+      internalID: 507594600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_207
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 609
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b436ff9bc379794bb85bd4ece1d8964
+      internalID: -1111698408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_208
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 610
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9174ee1a2ed3f034f95fcdfec5225b8a
+      internalID: 1645156552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_209
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 610
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd34901d560eb041a191f04afbfced2
+      internalID: -919341659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_210
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 612
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043949f87d711224fb760d27e2d1682d
+      internalID: -22244182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_211
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 610
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5133ec439e64f4581d2d8ba97af472
+      internalID: -19000860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_212
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 611
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d96479cbb25654ca68c47c78be1ea6
+      internalID: 1895892278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_213
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 612
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63931e790689f4c40b5d8ea0e4ddb9c4
+      internalID: -815228112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_214
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 612
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741fcb0243e17844795508be809706be
+      internalID: 1725667052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_215
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 615
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcabb315c4a36847885a34d063467f1
+      internalID: -1098320726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_216
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 577
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb7158e378d3ff49864aa3ec0f3e987
+      internalID: 458322371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_217
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 578
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b3a2d4dba227f4a986b020db2c4ff9
+      internalID: 798518172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_218
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 579
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c7b1bead66b0443b54a1be9d75a34f
+      internalID: 936443221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_219
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 580
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ea006b28528a54d8a5271ee97fa261
+      internalID: 136065523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_220
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 578
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad28100eb49a7a74dab948c231838a8c
+      internalID: -1652233061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_221
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 578
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b892716c1716746853642910a18fca
+      internalID: -230572476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_222
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 583
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6c028a489eb2248add0ca24846906f
+      internalID: 772403825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_223
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 583
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef8243d94a205945b6ed005f22ab830
+      internalID: -1797499213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_224
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 545
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b110518d7ac0b4daa6fb61839f09c9
+      internalID: -1772954402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_227
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 547
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e806e031032f13b4da78557713ffbee2
+      internalID: 918914870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_228
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 546
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18ff0b7f7c669545bb8203e8451fa7c
+      internalID: -1096329448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_229
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 545
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa9c9da5f4d65c40b0417b2adc20b38
+      internalID: -1410716295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_230
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 548
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8e7f01762c7234985dc5834d20d726
+      internalID: 1857201379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_231
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 551
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08880c3b3653b9e45a96c0026a63f13a
+      internalID: 369291164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_232
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 550
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d13a9890079c74bbe7c2ea22c0da44
+      internalID: -487081996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_233
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 528
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a940e0a05a10a4648b57180987499ba1
+      internalID: -600849041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_239
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 482
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a91b6dad810eea4fa26975781b86484
+      internalID: -1895458674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_240
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 515
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0306e7a021732498ec49d5f78c0e20
+      internalID: 1669224298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_241
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 514
+        width: 64
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4036a7d3e7aa184498fc078dd84d1677
+      internalID: -418710846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_242
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 519
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a045de240ec5b4887516a2fac0e118
+      internalID: -1173087794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_243
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 514
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ed4f95ae67a4b4eace01ca33a19b67
+      internalID: -1334293726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_244
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 433
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0b10d5e9b72114e80e2b4e8fffab98
+      internalID: 590878842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_245
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 433
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71bd3032397537f4bae33489091c7e0a
+      internalID: 1685747399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_246
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 440
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962b6e48ed2f72242bb1c9675a88ed97
+      internalID: -716371524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_247
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 442
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9a0144333f7c54191fb28d762512bc
+      internalID: 158143920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_248
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 443
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a8d8287e35c7d48ae3b6b73bd1cb5c
+      internalID: -613125761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_249
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 443
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c697f001c9c0e147bfc1b884aeb70ec
+      internalID: 2066946526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_250
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 443
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e22896b2301b6647bfc6642caf39b05
+      internalID: -898070059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_251
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 442
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d190c7a85f1ea89439b15de6ad1bb2ea
+      internalID: -1701282407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_252
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 449
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936401915feff13428bfc6c2c210ca18
+      internalID: -1471135610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_253
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 451
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e1514d1b354584ab2e9d827ea98436
+      internalID: -529399286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_254
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 452
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4af490a1d16b0428b365ec7a0fb09c
+      internalID: -1977165023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_255
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 452
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf53aeea1dcbe94394422507d8da34d
+      internalID: 860304109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_256
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 385
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2deb7c2ffc61528408e5b5910e697860
+      internalID: 491189453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_257
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 385
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d8da3df4b054d4b9e5bd9ad97dde27
+      internalID: 502093804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_258
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 385
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de39f0fe9de02745b3335e94c009d81
+      internalID: 1044476846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_259
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 385
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d67d548a134d4640bb5b54371467799
+      internalID: -668608937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_260
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 385
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af05cb370677bf44a95f9f2a983f7b34
+      internalID: -1163758087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_261
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 385
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe57d57d80df0db4fa47f50fd72393e3
+      internalID: -307873795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_262
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 385
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfa0714b20044d40a7c80afc94d448c
+      internalID: -1484426467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_263
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 385
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03e09898be51c1439d87433803eca43
+      internalID: 157175913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_264
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 385
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca8488972ae52c4d9104f872a37e305
+      internalID: 1833019799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_265
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 385
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9043d9638a0b34342a91884624f8ab22
+      internalID: 1872341789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_266
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 385
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3ff83e472b9af4b8afa25d4419481a
+      internalID: -1838941834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_267
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 385
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3381697e9ff4baa4aac2f248a1678789
+      internalID: -867065194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_268
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 385
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3699c4453bfdb164c980cd0a8388ad94
+      internalID: 2131701728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_269
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 339
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf8727a3bcd51946835fb6ccb4e200a
+      internalID: -809804489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_270
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 339
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdeec5a8c78e714496783c8ba67cd64
+      internalID: -465291270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_271
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 339
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db6c7f8530b1154898a6f39ef2da4cb
+      internalID: 1222619830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_272
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 339
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4878549c1bbe948957958b9341dd91
+      internalID: 1198536449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_273
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 339
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df30c051eded3d44b893b5ab2855a39
+      internalID: -325849835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_274
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 339
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d2d0c607517e24f806b5504ccd1a51
+      internalID: -80258209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_275
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 339
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4264d988e01264c8bf03e07a5482b7
+      internalID: -655596371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_276
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 339
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4b07cc70d591747a9f6b06477fec7a
+      internalID: -263549191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_277
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 339
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1248851e881d54fb343653b396dc8d
+      internalID: -1042939902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_278
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 339
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01f07c82da8daf448921fa72a1b7b2e
+      internalID: -1241419416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_279
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 339
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c5db806085abf44860fe972f1fade7
+      internalID: 1081953775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_280
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 339
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e5ef990f4a36d4f875de4a43054802
+      internalID: -1199917204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_281
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 339
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f097d15bc74b7484eb2bf18a9ddd58e1
+      internalID: 856624880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minecraft_sprites 1_282
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 448
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54933b11fe943bb479834212b022e7c0
+      internalID: 1962728454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      block_wood: 426427666
+      crafting_table: -1285240263
+      minecraft_sprites 1_0: -2003358282
+      minecraft_sprites 1_1: 2132194376
+      minecraft_sprites 1_10: -158661752
+      minecraft_sprites 1_100: -937649263
+      minecraft_sprites 1_101: 1468614787
+      minecraft_sprites 1_102: -1167363644
+      minecraft_sprites 1_103: 1357533542
+      minecraft_sprites 1_104: -322467515
+      minecraft_sprites 1_105: -1195551628
+      minecraft_sprites 1_106: 804103140
+      minecraft_sprites 1_107: -1112040936
+      minecraft_sprites 1_108: 2062726480
+      minecraft_sprites 1_109: 309732138
+      minecraft_sprites 1_11: -719189097
+      minecraft_sprites 1_110: 1992600918
+      minecraft_sprites 1_111: -523201406
+      minecraft_sprites 1_112: 1445994767
+      minecraft_sprites 1_113: -1037533349
+      minecraft_sprites 1_114: 571545911
+      minecraft_sprites 1_115: -51954639
+      minecraft_sprites 1_116: -430022831
+      minecraft_sprites 1_117: 1903630657
+      minecraft_sprites 1_118: 1491181488
+      minecraft_sprites 1_119: 770642408
+      minecraft_sprites 1_12: -1494983799
+      minecraft_sprites 1_120: -973536749
+      minecraft_sprites 1_121: 1768665132
+      minecraft_sprites 1_122: 1380994415
+      minecraft_sprites 1_123: 687780146
+      minecraft_sprites 1_124: -1385407362
+      minecraft_sprites 1_125: 2113643571
+      minecraft_sprites 1_126: 1542223591
+      minecraft_sprites 1_127: -54590856
+      minecraft_sprites 1_128: 1784257140
+      minecraft_sprites 1_129: -468466417
+      minecraft_sprites 1_13: 827808138
+      minecraft_sprites 1_130: 1740334663
+      minecraft_sprites 1_131: 1870244274
+      minecraft_sprites 1_132: 2046934369
+      minecraft_sprites 1_133: 1025448875
+      minecraft_sprites 1_134: -1405625171
+      minecraft_sprites 1_135: 1178120464
+      minecraft_sprites 1_136: 1968429849
+      minecraft_sprites 1_137: -1902097884
+      minecraft_sprites 1_138: -295932641
+      minecraft_sprites 1_139: 1731428251
+      minecraft_sprites 1_14: -463022937
+      minecraft_sprites 1_140: -243346668
+      minecraft_sprites 1_141: 1935182795
+      minecraft_sprites 1_142: -610239024
+      minecraft_sprites 1_143: 775655366
+      minecraft_sprites 1_144: 299053721
+      minecraft_sprites 1_145: 899689726
+      minecraft_sprites 1_146: -18569716
+      minecraft_sprites 1_147: -1315543453
+      minecraft_sprites 1_148: -401163415
+      minecraft_sprites 1_149: 1172586385
+      minecraft_sprites 1_15: 668043804
+      minecraft_sprites 1_150: -1656713970
+      minecraft_sprites 1_151: -1666766130
+      minecraft_sprites 1_152: -918163849
+      minecraft_sprites 1_153: 540488940
+      minecraft_sprites 1_154: 1966346582
+      minecraft_sprites 1_155: 529215050
+      minecraft_sprites 1_156: 544651941
+      minecraft_sprites 1_157: -1270558275
+      minecraft_sprites 1_158: -169964771
+      minecraft_sprites 1_159: 1395565013
+      minecraft_sprites 1_16: -1825334018
+      minecraft_sprites 1_160: 1007123708
+      minecraft_sprites 1_161: 1669801669
+      minecraft_sprites 1_162: 1685030420
+      minecraft_sprites 1_163: -1874062105
+      minecraft_sprites 1_164: 907324531
+      minecraft_sprites 1_165: -2103466858
+      minecraft_sprites 1_166: -1337014452
+      minecraft_sprites 1_167: -457352130
+      minecraft_sprites 1_168: 1985415505
+      minecraft_sprites 1_169: 1068623944
+      minecraft_sprites 1_17: 1111705553
+      minecraft_sprites 1_170: -1885231554
+      minecraft_sprites 1_171: 149144313
+      minecraft_sprites 1_172: -1114540887
+      minecraft_sprites 1_173: -1039368640
+      minecraft_sprites 1_174: -1637392494
+      minecraft_sprites 1_175: 50206843
+      minecraft_sprites 1_176: -1885981062
+      minecraft_sprites 1_177: 991977730
+      minecraft_sprites 1_178: 1162777658
+      minecraft_sprites 1_179: 128847968
+      minecraft_sprites 1_18: 1245449534
+      minecraft_sprites 1_180: -954182369
+      minecraft_sprites 1_181: 1873799093
+      minecraft_sprites 1_182: -1188162000
+      minecraft_sprites 1_183: -432901578
+      minecraft_sprites 1_184: -1953941045
+      minecraft_sprites 1_185: 464331639
+      minecraft_sprites 1_186: 1046708908
+      minecraft_sprites 1_187: -1626949401
+      minecraft_sprites 1_188: -1485633164
+      minecraft_sprites 1_189: 379761856
+      minecraft_sprites 1_19: -646021443
+      minecraft_sprites 1_190: 323391415
+      minecraft_sprites 1_191: 1225379216
+      minecraft_sprites 1_192: -461907834
+      minecraft_sprites 1_193: -154463175
+      minecraft_sprites 1_194: 781236622
+      minecraft_sprites 1_195: -1312064475
+      minecraft_sprites 1_196: -945604067
+      minecraft_sprites 1_197: -1939588133
+      minecraft_sprites 1_198: -401277423
+      minecraft_sprites 1_199: 1348365000
+      minecraft_sprites 1_2: -1287788245
+      minecraft_sprites 1_20: -814056374
+      minecraft_sprites 1_200: -1698283134
+      minecraft_sprites 1_201: -791766969
+      minecraft_sprites 1_202: 725932334
+      minecraft_sprites 1_203: -1089190973
+      minecraft_sprites 1_204: -1039856470
+      minecraft_sprites 1_205: -1719766940
+      minecraft_sprites 1_206: 507594600
+      minecraft_sprites 1_207: -1111698408
+      minecraft_sprites 1_208: 1645156552
+      minecraft_sprites 1_209: -919341659
+      minecraft_sprites 1_21: -815902334
+      minecraft_sprites 1_210: -22244182
+      minecraft_sprites 1_211: -19000860
+      minecraft_sprites 1_212: 1895892278
+      minecraft_sprites 1_213: -815228112
+      minecraft_sprites 1_214: 1725667052
+      minecraft_sprites 1_215: -1098320726
+      minecraft_sprites 1_216: 458322371
+      minecraft_sprites 1_217: 798518172
+      minecraft_sprites 1_218: 936443221
+      minecraft_sprites 1_219: 136065523
+      minecraft_sprites 1_22: 1689536203
+      minecraft_sprites 1_220: -1652233061
+      minecraft_sprites 1_221: -230572476
+      minecraft_sprites 1_222: 772403825
+      minecraft_sprites 1_223: -1797499213
+      minecraft_sprites 1_224: -1772954402
+      minecraft_sprites 1_225: 542872892
+      minecraft_sprites 1_226: -1574656523
+      minecraft_sprites 1_227: 918914870
+      minecraft_sprites 1_228: -1096329448
+      minecraft_sprites 1_229: -1410716295
+      minecraft_sprites 1_23: 491990467
+      minecraft_sprites 1_230: 1857201379
+      minecraft_sprites 1_231: 369291164
+      minecraft_sprites 1_232: -487081996
+      minecraft_sprites 1_233: -600849041
+      minecraft_sprites 1_234: -1090398096
+      minecraft_sprites 1_235: -1766858771
+      minecraft_sprites 1_236: -2061308005
+      minecraft_sprites 1_237: -1774336687
+      minecraft_sprites 1_238: 1879260582
+      minecraft_sprites 1_239: -1895458674
+      minecraft_sprites 1_24: -1960936889
+      minecraft_sprites 1_240: 1669224298
+      minecraft_sprites 1_241: -418710846
+      minecraft_sprites 1_242: -1173087794
+      minecraft_sprites 1_243: -1334293726
+      minecraft_sprites 1_244: 590878842
+      minecraft_sprites 1_245: 1685747399
+      minecraft_sprites 1_246: -716371524
+      minecraft_sprites 1_247: 158143920
+      minecraft_sprites 1_248: -613125761
+      minecraft_sprites 1_249: 2066946526
+      minecraft_sprites 1_25: 1592835767
+      minecraft_sprites 1_250: -898070059
+      minecraft_sprites 1_251: -1701282407
+      minecraft_sprites 1_252: -1471135610
+      minecraft_sprites 1_253: -529399286
+      minecraft_sprites 1_254: -1977165023
+      minecraft_sprites 1_255: 860304109
+      minecraft_sprites 1_256: 491189453
+      minecraft_sprites 1_257: 502093804
+      minecraft_sprites 1_258: 1044476846
+      minecraft_sprites 1_259: -668608937
+      minecraft_sprites 1_26: -1743526037
+      minecraft_sprites 1_260: -1163758087
+      minecraft_sprites 1_261: -307873795
+      minecraft_sprites 1_262: -1484426467
+      minecraft_sprites 1_263: 157175913
+      minecraft_sprites 1_264: 1833019799
+      minecraft_sprites 1_265: 1872341789
+      minecraft_sprites 1_266: -1838941834
+      minecraft_sprites 1_267: -867065194
+      minecraft_sprites 1_268: 2131701728
+      minecraft_sprites 1_269: -809804489
+      minecraft_sprites 1_270: -465291270
+      minecraft_sprites 1_271: 1222619830
+      minecraft_sprites 1_272: 1198536449
+      minecraft_sprites 1_273: -325849835
+      minecraft_sprites 1_274: -80258209
+      minecraft_sprites 1_275: -655596371
+      minecraft_sprites 1_276: -263549191
+      minecraft_sprites 1_277: -1042939902
+      minecraft_sprites 1_278: -1241419416
+      minecraft_sprites 1_279: 1081953775
+      minecraft_sprites 1_28: 1631248978
+      minecraft_sprites 1_280: -1199917204
+      minecraft_sprites 1_281: 856624880
+      minecraft_sprites 1_282: 1962728454
+      minecraft_sprites 1_29: -1889524994
+      minecraft_sprites 1_3: -770005940
+      minecraft_sprites 1_30: 352936967
+      minecraft_sprites 1_31: -2079044271
+      minecraft_sprites 1_33: 464489991
+      minecraft_sprites 1_34: 270242015
+      minecraft_sprites 1_35: -129387759
+      minecraft_sprites 1_36: 2139350676
+      minecraft_sprites 1_37: -1862687505
+      minecraft_sprites 1_38: -2025548977
+      minecraft_sprites 1_39: -328766761
+      minecraft_sprites 1_4: 1719304498
+      minecraft_sprites 1_40: 1909707689
+      minecraft_sprites 1_41: -601810329
+      minecraft_sprites 1_42: -618293979
+      minecraft_sprites 1_43: 1365477411
+      minecraft_sprites 1_44: 2015654721
+      minecraft_sprites 1_45: 406329606
+      minecraft_sprites 1_46: 739480467
+      minecraft_sprites 1_47: 1397692391
+      minecraft_sprites 1_48: -1833778431
+      minecraft_sprites 1_49: -1420118162
+      minecraft_sprites 1_5: 763923772
+      minecraft_sprites 1_50: -1372076186
+      minecraft_sprites 1_51: -594277164
+      minecraft_sprites 1_52: -1699112895
+      minecraft_sprites 1_53: 1603477479
+      minecraft_sprites 1_54: -765280555
+      minecraft_sprites 1_55: 979724694
+      minecraft_sprites 1_56: -1590465289
+      minecraft_sprites 1_57: 252756236
+      minecraft_sprites 1_58: 1440044685
+      minecraft_sprites 1_59: -2084225114
+      minecraft_sprites 1_6: 1905363079
+      minecraft_sprites 1_60: 1013969531
+      minecraft_sprites 1_61: 477332452
+      minecraft_sprites 1_62: -1393773478
+      minecraft_sprites 1_63: -2019932520
+      minecraft_sprites 1_64: 1837272072
+      minecraft_sprites 1_65: -1840543524
+      minecraft_sprites 1_66: 1198328803
+      minecraft_sprites 1_67: -309220408
+      minecraft_sprites 1_68: -32722436
+      minecraft_sprites 1_69: -1051950979
+      minecraft_sprites 1_7: -603172178
+      minecraft_sprites 1_70: -964708396
+      minecraft_sprites 1_71: -1937945529
+      minecraft_sprites 1_72: 513078629
+      minecraft_sprites 1_73: 1907535474
+      minecraft_sprites 1_74: -781102418
+      minecraft_sprites 1_75: -1110498327
+      minecraft_sprites 1_76: -887765633
+      minecraft_sprites 1_77: 936899984
+      minecraft_sprites 1_78: -246866159
+      minecraft_sprites 1_79: 181577643
+      minecraft_sprites 1_8: 192471681
+      minecraft_sprites 1_80: -122895263
+      minecraft_sprites 1_81: 1196322358
+      minecraft_sprites 1_82: 300064038
+      minecraft_sprites 1_83: -853547532
+      minecraft_sprites 1_84: -1485028582
+      minecraft_sprites 1_85: 509525873
+      minecraft_sprites 1_86: 428471456
+      minecraft_sprites 1_87: -360951465
+      minecraft_sprites 1_88: 892147474
+      minecraft_sprites 1_89: -1323926269
+      minecraft_sprites 1_9: 221212013
+      minecraft_sprites 1_90: -248367400
+      minecraft_sprites 1_91: -1139716358
+      minecraft_sprites 1_92: -2084201923
+      minecraft_sprites 1_93: -1348456099
+      minecraft_sprites 1_94: 1097975809
+      minecraft_sprites 1_95: 820810480
+      minecraft_sprites 1_96: 303755518
+      minecraft_sprites 1_97: -1922400280
+      minecraft_sprites 1_98: -2101562864
+      minecraft_sprites 1_99: 1726143363
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
