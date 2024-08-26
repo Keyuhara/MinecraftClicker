@@ -70,8 +70,14 @@ public class JobHandler : MonoBehaviour
                 Data.exploredDouble -= (int)System.Math.Floor(Data.exploredDouble);
             }
 
-            exploreText.text = Data.explored.ToString() + " / " + Data.notExplored.ToString();
-            scavengeText.text = Data.scavenged.ToString() + " / " + Data.notScavenged.ToString();
+            if(exploreText != null)
+            {
+                exploreText.text = Data.explored.ToString() + " / " + Data.notExplored.ToString();
+            }
+            if(scavengerText != null)
+            {
+                scavengeText.text = Data.scavenged.ToString() + " / " + Data.notScavenged.ToString();
+            }
         }
 
         // automatically scavenge
@@ -100,7 +106,10 @@ public class JobHandler : MonoBehaviour
                 Data.scavengedDouble -= (int)System.Math.Floor(Data.scavengedDouble);
             }
             
-            scavengeText.text = Data.scavenged.ToString() + " / " + Data.notScavenged.ToString();
+            if(scavengerText != null)
+            {
+                scavengeText.text = Data.scavenged.ToString() + " / " + Data.notScavenged.ToString();
+            }
         }
 
         // automatically farm food
